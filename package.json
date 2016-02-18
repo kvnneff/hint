@@ -28,5 +28,6 @@
   "dependencies": {
     "insert-rule": "^2.1.0",
     "nib": "^1.0.3"
-  }
+  },
+  "style": "dist/hint.css"
 }
