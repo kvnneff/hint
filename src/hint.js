@@ -90,7 +90,7 @@ function move (elem) {
     });
   }
   transparent();
-  setTimeout(opaque, 1000);
+  setTimeout(opaque, 500);
 
   function transparent () {
     insertRule(selector, { opacity: 0 });
